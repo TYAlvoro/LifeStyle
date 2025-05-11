@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifestyle.Bot", "Lifestyle.Bot\Lifestyle.Bot.csproj", "{B46CBA7F-0982-4145-9312-E26872FE6EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifestyle.Shared", "Lifestyle.Shared\Lifestyle.Shared.csproj", "{1D80C71A-F957-4920-B3D7-A7B310DF1439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifestyle.Api", "Lifestyle.Api\Lifestyle.Api.csproj", "{77C2A0B6-B427-4EE5-B109-028F9D6595C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46CBA7F-0982-4145-9312-E26872FE6EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46CBA7F-0982-4145-9312-E26872FE6EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46CBA7F-0982-4145-9312-E26872FE6EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46CBA7F-0982-4145-9312-E26872FE6EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D80C71A-F957-4920-B3D7-A7B310DF1439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D80C71A-F957-4920-B3D7-A7B310DF1439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D80C71A-F957-4920-B3D7-A7B310DF1439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D80C71A-F957-4920-B3D7-A7B310DF1439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C2A0B6-B427-4EE5-B109-028F9D6595C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C2A0B6-B427-4EE5-B109-028F9D6595C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C2A0B6-B427-4EE5-B109-028F9D6595C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C2A0B6-B427-4EE5-B109-028F9D6595C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

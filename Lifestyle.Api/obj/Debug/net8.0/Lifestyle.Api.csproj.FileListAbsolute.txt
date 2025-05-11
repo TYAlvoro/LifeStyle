@@ -1,0 +1,7 @@
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.csproj.AssemblyReference.cache
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.AssemblyInfoInputs.cache
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.AssemblyInfo.cs
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.csproj.CoreCompileInputs.cache
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/t.yakhyaev/RiderProjects/Lifestyle/Lifestyle.Api/obj/Debug/net8.0/Lifestyle.Api.MvcApplicationPartsAssemblyInfo.cache
